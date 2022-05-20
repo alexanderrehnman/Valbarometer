@@ -32,7 +32,9 @@ Detta projekt är testat på Python 3.9+. För att installera Python kan du bes�
 
 ## Example (exempelkörning)
 
-***Visa gärna, genom ett kodblock från din konsol, eller en bild, hur en exempelkörning kan gå till.***
+<img src ="./img/124057.png">
+<img src =".img/124126.png">
+
 
 ## To do/Roadmap (Att göra/Plan)
 
@@ -64,7 +66,7 @@ Exempel:
 
 - Tog bort tidigare kommentarer som inte passade in.
 
-## Att bidra (Contribution)
+## Att bidra 
 
 Då bedömning ännu ej är gjord på uppgiften så tillåts inga pull requests. Så fort bedömning är gjord kommer detta tillåtas.  
 
