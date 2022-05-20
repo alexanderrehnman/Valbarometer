@@ -54,6 +54,19 @@ Inget har ändrats.
 
 ### Version 1.0.1
 
+Struktur
+
+### Version 1.0.2
+Skapa olika partier 
+Lista med patrierna 
+Valfrågor
+
+### Version 1.0.3
+Filhantering 
+poängsystem 
+Ta ut det vinnande partiet
+
+
 #### Borttaget
 
 - Tog bort tidigare kommentarer som inte passade in.
