@@ -2,13 +2,6 @@
 Mitt slutprojekt i Programmering 1. Här gör jag en valbarometer. 
 
 Alexander Rehnman
-•
-13:00
-
-NL_README.md
-Text
-Klasskommentarer
-
 
 ## Beskrivning
 
