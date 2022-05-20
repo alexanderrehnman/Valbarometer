@@ -66,6 +66,9 @@ Filhantering
 poängsystem 
 Ta ut det vinnande partiet
 
+### Version 1.0.4
+Hur programmet skrivs ut
+Kommentarer i koden.
 
 #### Borttaget
 
