@@ -30,15 +30,7 @@ Detta projekt är testat på Python 3.9+. För att installera Python kan du bes�
 
 
 Exempel på koden:
-        n = 0
-        tie = False
-        global winningParty 
-        for i in range(len(points)-1) :
-            if points[i+1] > points[i]:
-                n = i +1
-                tie == False
-            if points[i+1] == points[i] and points[n] <= points[i]:
-                tie = True
+<img src ="./img/bild3.jpg">
 
 Här går jag de olika partierna och gämför vardera parti med varandra. Ifall ett parti har mer poäng än det två andra patrierna så är det vinnaren och skrivs ut.
 
