@@ -36,10 +36,7 @@ Detta projekt är testat på Python 3.9+. För att installera Python kan du bes�
 <img src ="./img/bild2.jpg">
 
 
-## To do/Roadmap (Att göra/Plan)
-
-***Det kan vara nyttigt att få andra som läser om projektet att få veta vad du saknar just nu i programmet. Gör detta gärna genom en lista där färdiga saker strukits över.***
-Exempel:
+## Att göra/Plan
 
 - [x] Påbörja exempelreadme
 - [ ] Hitta fler exempelrubriker
@@ -88,6 +85,6 @@ Projektlänk: https://github.com/ditt_anv/reponamn
 
 ## Erkännanden
 
-***Här kan du lista resurser eller personer som har hjälpt dig med projektet. Det kan vara länkar till tutorials eller dokumentation, eller bara någon annans profil som du vill uppmärksamma. Har du inget som behöver tas här så kan du strunta i rubriken. ***
-
 - Niclas Lund
+- https://www.w3schools.com/
+
