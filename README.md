@@ -54,11 +54,6 @@ Inget har ändrats.
 
 ### Version 1.0.1
 
-#### Tillagt eller ändrat
-
-- La till avsnitt om changelog
-- La till avsnitt om kodkonventioner
-
 #### Borttaget
 
 - Tog bort tidigare kommentarer som inte passade in.
@@ -81,7 +76,7 @@ Kan bli kontaktad på följande plattformar:
 - Instagram:@Alexanderrehnman
 - Gmail:Alexanderrehnman2004@gmail.com
 
-Projektlänk: https://github.com/ditt_anv/reponamn
+Projektlänk: https://github.com/alexanderrehnman/Valbarometer
 
 ## Erkännanden
 
