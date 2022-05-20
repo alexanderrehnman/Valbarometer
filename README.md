@@ -32,8 +32,8 @@ Detta projekt är testat på Python 3.9+. För att installera Python kan du bes�
 
 ## Example (exempelkörning)
 
-<img src ="./img/skärmbild 2022-05-20 124057.png">
-<img src ="./img/skärmbild 2022-05-20 124126.png">
+<img src ="./img/bild1.png">
+<img src ="./img/bild2.png">
 
 
 ## To do/Roadmap (Att göra/Plan)
