@@ -26,11 +26,21 @@ Mitt program är en valbarometer som är skrivet i programmeringsspråket Python
 
 Detta projekt är testat på Python 3.9+. För att installera Python kan du besöka (https://www.python.org/downloads/)[följande länk för senaste versionen.]
 
-## Hur det fungerar
+## exempelkörning + hur den fungerar.
 
-***Använd detta utrymme för att visa användbara exempel av hur projektet kan användas. Skärmdumpar, kodexempel och demos passar in här. Du kan också länka till fler resurser, exempelvis en dokumentation.***
 
-## Example (exempelkörning)
+Exempel på koden:
+        n = 0
+        tie = False
+        global winningParty 
+        for i in range(len(points)-1) :
+            if points[i+1] > points[i]:
+                n = i +1
+                tie == False
+            if points[i+1] == points[i] and points[n] <= points[i]:
+                tie = True
+
+Här går jag de olika partierna och gämför vardera parti med varandra. Ifall ett parti har mer poäng än det två andra patrierna så är det vinnaren och skrivs ut.
 
 <img src ="./img/bild1.jpg">
 <img src ="./img/bild2.jpg">
@@ -48,9 +58,7 @@ Detta projekt är testat på Python 3.9+. För att installera Python kan du bes�
 
 ## Changelog
 
-***Det kan vara rimligt att inkludera vad som har förändrats genom de olika iterationerna som ditt projekt gått igenom. Detta kan antingen göras i din README eller så kan du inkludera en CHANGELOG.md.***
-
-***I changelogen ska varje rubrik vara en version. Under varje version bör du inkludera vad du lagt till eller ändrat på (added or changed) under en rubrik samt vad du tagit bort (removed) under en annan. Exempel: ***
+Inget har ändrats.
 
 ### Version 1.0.1
 
